@@ -3,8 +3,7 @@
 
 
 
-<img src="../../Frontend/AkibaMart/src/assets/fondo.png" alt="Fondo manga" width="700"/>
-=======
+<img src="../../Frontend/AkibaMart/src/assets/fondo.png" width="700"/>
 <img src="./src/assets/fondo.png" width="700"/>
 >>>>>>> 3029604b6e68227d0a0d449062bb4e5e3f8ceac6
 
